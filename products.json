@@ -1,0 +1,12 @@
+[
+    {"name": "iPhone 13", "category": "phone", "price": 799},
+    {"name": "Samsung Galaxy S21", "category": "phone", "price": 699},
+    {"name": "Google Pixel 6", "category": "phone", "price": 599},
+    {"name": "OnePlus 9", "category": "phone", "price": 729},
+    {"name": "Dell XPS 13", "category": "laptop", "price": 999},
+    {"name": "HP Pavilion 15", "category": "laptop", "price": 650},
+    {"name": "Sony WH-1000XM4", "category": "headphones", "price": 349},
+    {"name": "Apple AirPods Pro", "category": "headphones", "price": 249},
+    {"name": "Fitbit Versa 3", "category": "smartwatch", "price": 229},
+    {"name": "Apple Watch Series 7", "category": "smartwatch", "price": 399}
+]
